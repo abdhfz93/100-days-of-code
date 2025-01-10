@@ -1,6 +1,5 @@
 import random
 
-
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 #opt 1 previous knowledge
 test=random.randint(0,4)
